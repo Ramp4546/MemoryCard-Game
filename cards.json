@@ -1,0 +1,18 @@
+[
+    {
+        "image": "../data/c-logo.png",
+        "name": "c-logo"
+    },
+    {
+        "image": "../data/mysql.png",
+        "name": "mysql"
+    },
+    {
+        "image": "../data/python.png",
+        "name": "python"
+    },
+    {
+        "image": "../data/react.png",
+        "name": "react"
+    }
+]
