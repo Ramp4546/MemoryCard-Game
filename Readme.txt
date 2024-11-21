@@ -1,6 +1,6 @@
 How to run the game:-
 (Important note:- the code will not run directly due to browser hosting issues use VS-code instead)
-
+(for downloading the fiie download the zip file from github dont use directly as path is needed)
 step-1:-After Unzipping the Folder, open the folder "MemoryCardGame" with Visual Studio Code.
 (note:- if you don't have visual studio install using this link https://code.visualstudio.com/)
 
